@@ -28,4 +28,4 @@ It demonstrates how weak passwords can be compromised, analyzes attack speed vs.
    - Linux: `sudo apt-get install python3-tk`  
 3. Clone this repository:  
 ```bash
-git clone https://github.com/<your-username>/Password-Cracking-Simulator-GUI.git
+git clone https://github.com/88Manoj/Password-Cracking-Simulator-GUI.git
